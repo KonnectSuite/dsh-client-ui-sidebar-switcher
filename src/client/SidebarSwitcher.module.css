@@ -1,0 +1,29 @@
+.switcher {
+  display: flex;
+  align-items: center;
+  gap: 2px;
+}
+
+.button {
+  flex: none;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 28px;
+  height: 28px;
+  padding: 0;
+  border: none;
+  border-radius: var(--dsw-radius-sm);
+  background: transparent;
+  color: var(--dsw-alias-label-secondary);
+  cursor: pointer;
+}
+
+.button:hover,
+.button[aria-pressed='true'] {
+  background: var(--dsw-alias-interactive-bg-hover);
+}
+
+.button[aria-pressed='true'] {
+  color: var(--dsw-alias-label-primary);
+}
