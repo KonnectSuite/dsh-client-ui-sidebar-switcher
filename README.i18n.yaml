@@ -1,0 +1,43 @@
+# Bilingual-pair consistency record for README.md (docs/i18n/README.md): per heading
+# section, a hash of its English and Chinese blocks outside code blocks and generated regions.
+# After editing either side, bring the other along and re-record with:
+#   pnpm run verify-translation-pairing --write packages/client/ui-sidebar-switcher/README.md
+/:
+  en: d0abff0d3d60105e
+  zh: 16341f3d5399d9ac
+/deepseek-ai-dsh-client-ui-sidebar-switcher:
+  en: b222b79333c8e6bb
+  zh: 8cb4386637573ca6
+/deepseek-ai-dsh-client-ui-sidebar-switcher/summary:
+  en: 54965466dce8143a
+  zh: dbf8363ca0516229
+/deepseek-ai-dsh-client-ui-sidebar-switcher/table-of-contents:
+  en: 122f0d41696980b1
+  zh: 52fc7c1989484818
+/deepseek-ai-dsh-client-ui-sidebar-switcher/use-this-package:
+  en: 402aaf2dab90660a
+  zh: 13698510da9982cd
+/deepseek-ai-dsh-client-ui-sidebar-switcher/understand-the-implementation:
+  en: 53c366161f4d329c
+  zh: 0dcffd9c4bb83e3f
+/deepseek-ai-dsh-client-ui-sidebar-switcher/model-experience:
+  en: 215e7ba838619b7b
+  zh: a311da3843709f90
+/deepseek-ai-dsh-client-ui-sidebar-switcher/model-experience/panel-selection:
+  en: 1c0f9dad0bcc45c4
+  zh: 1c0f9dad0bcc45c4
+/deepseek-ai-dsh-client-ui-sidebar-switcher/model-experience/panel-selection/what-the-model-sees:
+  en: 3f72c8b018f375d1
+  zh: b6bb439938c81328
+/deepseek-ai-dsh-client-ui-sidebar-switcher/model-experience/panel-selection/token-effect:
+  en: 2e7ab25df071a12c
+  zh: 8c715bf9bc09e3b0
+/deepseek-ai-dsh-client-ui-sidebar-switcher/model-experience/panel-selection/kv-cache-effect:
+  en: e2b57bcdcf61bfc2
+  zh: 51fe1a710c9f8100
+/deepseek-ai-dsh-client-ui-sidebar-switcher/known-limitations-and-deferred-work:
+  en: 1dc7e78115e65c42
+  zh: 8a83369b1f05fc69
+/deepseek-ai-dsh-client-ui-sidebar-switcher/known-limitations-and-deferred-work/dev-note:
+  en: b7fbf1f393752f9b
+  zh: 967257a948997873
