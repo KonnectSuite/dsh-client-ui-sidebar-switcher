@@ -1,6 +1,6 @@
 {
   "repository": "KonnectSuite/AryaAI",
-  "commit": "64f434ae0d8d32f5c6cc5833d14b5e4f7aceda95",
+  "commit": "5bced73f8a9ec3a21407f057e0f37e91d7d13521",
   "path": "packages/client/ui-sidebar-switcher",
   "build": "Build and test in the AryaAI workspace; lib files and resolved package metadata are copied from its packed artifact."
 }

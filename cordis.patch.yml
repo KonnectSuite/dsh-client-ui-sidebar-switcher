@@ -1,0 +1,7 @@
+# Conversation-header buttons that open Changes, Browser, Terminal or Files in the right sidebar.
+#
+# This row is a profile-level bundle so a profile can switch it off without
+# removing the rest of the application shell.
+- insert:
+    - id: ui-sidebar-switcher
+      name: '@deepseek-ai/dsh-client-ui-sidebar-switcher'
