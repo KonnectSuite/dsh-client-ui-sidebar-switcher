@@ -1,6 +1,6 @@
 ---
 description: "通过对话标题栏按钮打开 Changes、Browser、Terminal 或 Files。按钮跟随其他插件当前注册的面板。移除面板也会移除其按钮。"
-kind: "package-reference"
+kind: "package-bundle"
 ---
 
 # @deepseek-ai/dsh-client-ui-sidebar-switcher

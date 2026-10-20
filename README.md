@@ -1,6 +1,6 @@
 ---
 description: "Open Changes, Browser, Terminal or Files from conversation-header buttons. Buttons follow the panels currently registered by other plugins. Removing a panel also removes its button."
-kind: "package-reference"
+kind: "package-bundle"
 ---
 
 # @deepseek-ai/dsh-client-ui-sidebar-switcher
